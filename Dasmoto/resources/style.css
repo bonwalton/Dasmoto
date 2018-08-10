@@ -1,0 +1,31 @@
+html {
+  font-family: Helvetica;
+}
+h1 {
+  background-image: url(/Users/bonzap/Documents/Projects/Dasmoto/resources/pattern.jpeg);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+#brush {
+    background-color: MediumSpringGreen;
+}
+#frame {
+    background-color: LightCoral;
+}
+#paint {
+    background-color: SkyBlue;
+}
